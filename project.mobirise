@@ -4578,7 +4578,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "socialSharingUrl": ""
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/phd-0001-copy-2-1600x1200.png"
       },
       "components": [
         {
