@@ -705,9 +705,6 @@ a {
 .cid-unM4G5IQGK .navbar-dropdown {
   position: relative !important;
 }
-.cid-unM4G5IQGK .navbar-dropdown {
-  position: absolute !important;
-}
 .cid-unM4G5IQGK .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -803,7 +800,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
   background: #def0ff;
 }
 .cid-unM4G5IQGK .navbar.opened {
@@ -1120,9 +1117,6 @@ a {
 .cid-unM4OdfwFZ .navbar-dropdown {
   position: relative !important;
 }
-.cid-unM4OdfwFZ .navbar-dropdown {
-  position: absolute !important;
-}
 .cid-unM4OdfwFZ .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -1218,7 +1212,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
   background: #def0ff;
 }
 .cid-unM4OdfwFZ .navbar.opened {
@@ -1535,9 +1529,6 @@ a {
 .cid-unM4PPjNnL .navbar-dropdown {
   position: relative !important;
 }
-.cid-unM4PPjNnL .navbar-dropdown {
-  position: absolute !important;
-}
 .cid-unM4PPjNnL .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -1633,7 +1624,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
   background: #def0ff;
 }
 .cid-unM4PPjNnL .navbar.opened {
@@ -1950,9 +1941,6 @@ a {
 .cid-uoRm4hZqVv .navbar-dropdown {
   position: relative !important;
 }
-.cid-uoRm4hZqVv .navbar-dropdown {
-  position: absolute !important;
-}
 .cid-uoRm4hZqVv .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -2048,7 +2036,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
   background: #def0ff;
 }
 .cid-uoRm4hZqVv .navbar.opened {
@@ -2365,9 +2353,6 @@ a {
 .cid-upq7rjtCSl .navbar-dropdown {
   position: relative !important;
 }
-.cid-upq7rjtCSl .navbar-dropdown {
-  position: absolute !important;
-}
 .cid-upq7rjtCSl .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -2463,7 +2448,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
   background: #def0ff;
 }
 .cid-upq7rjtCSl .navbar.opened {
@@ -2780,9 +2765,6 @@ a {
 .cid-upq9fqdxoV .navbar-dropdown {
   position: relative !important;
 }
-.cid-upq9fqdxoV .navbar-dropdown {
-  position: absolute !important;
-}
 .cid-upq9fqdxoV .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -2878,7 +2860,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
   background: #def0ff;
 }
 .cid-upq9fqdxoV .navbar.opened {
@@ -3195,9 +3177,6 @@ a {
 .cid-uoRsfHhK0Z .navbar-dropdown {
   position: relative !important;
 }
-.cid-uoRsfHhK0Z .navbar-dropdown {
-  position: absolute !important;
-}
 .cid-uoRsfHhK0Z .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -3293,7 +3272,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
   background: #def0ff;
 }
 .cid-uoRsfHhK0Z .navbar.opened {
@@ -3622,9 +3601,6 @@ a {
 .cid-usCanx8Qfg .navbar-dropdown {
   position: relative !important;
 }
-.cid-usCanx8Qfg .navbar-dropdown {
-  position: absolute !important;
-}
 .cid-usCanx8Qfg .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -3720,7 +3696,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
   background: #def0ff;
 }
 .cid-usCanx8Qfg .navbar.opened {
@@ -4402,9 +4378,6 @@ a {
 .cid-urSj2iPrcy .navbar-dropdown {
   position: relative !important;
 }
-.cid-urSj2iPrcy .navbar-dropdown {
-  position: absolute !important;
-}
 .cid-urSj2iPrcy .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -4500,7 +4473,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
   background: #def0ff;
 }
 .cid-urSj2iPrcy .navbar.opened {
